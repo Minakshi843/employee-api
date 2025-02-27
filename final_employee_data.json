@@ -1,0 +1,1418 @@
+[
+    {
+        "Designation":"Team Leader (MEP)\/Civil",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Sr Engineer Electrical",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":0,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Sr Engineer MEP",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":2,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Engineer Civil",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Accounts Executive",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"STP Operator",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Chiller Operator",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":0,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"AC Operator",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Lift Operator",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":3,
+        "Total_posted":3,
+        "Total_Present":2,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Plumber (Highly Skilled)",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Plumber (Semi Skilled)",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Fireman (Highly Skilled)",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Housekeeping Supervisor",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Housekeeper",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":15,
+        "Total_posted":15,
+        "Total_Present":8,
+        "Total_Absent":7
+    },
+    {
+        "Designation":"Security Guard",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":15,
+        "Total_posted":15,
+        "Total_Present":6,
+        "Total_Absent":9
+    },
+    {
+        "Designation":"Maali",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":1,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Receptionist",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"BMS Operator",
+        "Site_Name":"Atulya IT Park",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Property Manager",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Shift Supervisor",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Plumber",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Helper (Water\/Plumbing)",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Housekeeping",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":33,
+        "Total_posted":33,
+        "Total_Present":21,
+        "Total_Absent":12
+    },
+    {
+        "Designation":"Electrician Grade I",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Helper (Electrical)",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":1,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Security Supervisor",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":0,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Security Guard",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":30,
+        "Total_posted":30,
+        "Total_Present":25,
+        "Total_Absent":5
+    },
+    {
+        "Designation":"fire Officer",
+        "Site_Name":"Raipur ISBT",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Facility Manager",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Supervisor",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Guard",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":16,
+        "Total_posted":16,
+        "Total_Present":13,
+        "Total_Absent":3
+    },
+    {
+        "Designation":"Supervisor",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Support Staff",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":18,
+        "Total_posted":18,
+        "Total_Present":13,
+        "Total_Absent":5
+    },
+    {
+        "Designation":"Helper",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":2,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Supervisor",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Gardner",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":2,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Technician",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":4,
+        "Total_posted":4,
+        "Total_Present":3,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Operator",
+        "Site_Name":"MPSEDC Bhopal",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Legal advisor",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Architect",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Urban planner",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Junior Engineer",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":2,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Assistant Engineer",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Computer operator",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":9,
+        "Total_posted":9,
+        "Total_Present":4,
+        "Total_Absent":5
+    },
+    {
+        "Designation":"Pump operator",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":27,
+        "Total_posted":27,
+        "Total_Present":22,
+        "Total_Absent":5
+    },
+    {
+        "Designation":"Pantry",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":4,
+        "Total_posted":4,
+        "Total_Present":1,
+        "Total_Absent":3
+    },
+    {
+        "Designation":"Electrician",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":7,
+        "Total_posted":7,
+        "Total_Present":2,
+        "Total_Absent":5
+    },
+    {
+        "Designation":"Plumber",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":6,
+        "Total_posted":6,
+        "Total_Present":0,
+        "Total_Absent":6
+    },
+    {
+        "Designation":"Housekeeping staff",
+        "Site_Name":"MPIDC Gwalior",
+        "Authorized_Emp":10,
+        "Total_posted":10,
+        "Total_Present":9,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"ICCC Operator",
+        "Site_Name":"Pimpri Chinchwad ICCC +Task force",
+        "Authorized_Emp":16,
+        "Total_posted":16,
+        "Total_Present":12,
+        "Total_Absent":4
+    },
+    {
+        "Designation":"ICCC Supervisor",
+        "Site_Name":"Pimpri Chinchwad ICCC +Task force",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":0,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"ICCC Head",
+        "Site_Name":"Pimpri Chinchwad ICCC +Task force",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Task Force Member",
+        "Site_Name":"Pimpri Chinchwad ICCC +Task force",
+        "Authorized_Emp":16,
+        "Total_posted":16,
+        "Total_Present":8,
+        "Total_Absent":8
+    },
+    {
+        "Designation":"Task Force Head",
+        "Site_Name":"Pimpri Chinchwad ICCC +Task force",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Project Head",
+        "Site_Name":"Pimpri Chinchwad ICCC +Task force",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Monitoring & Evaluation Expert",
+        "Site_Name":"Pimpri Chinchwad TSU",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"IEC Expert",
+        "Site_Name":"Pimpri Chinchwad TSU",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Faecal & Sewage Management Expert",
+        "Site_Name":"Pimpri Chinchwad TSU",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Field Supervisor",
+        "Site_Name":"Pimpri Chinchwad TSU",
+        "Authorized_Emp":8,
+        "Total_posted":8,
+        "Total_Present":5,
+        "Total_Absent":3
+    },
+    {
+        "Designation":"Social Media Co-ordinator",
+        "Site_Name":"Pimpri Chinchwad TSU",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Project head",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Monitoring & evaluation Expert",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"ICT EXPERT",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"SANITATION EXPERT",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"SOCIAL MEDIA",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"DOCUMENTATION Expert",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"ZONE INCHARGE",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":5,
+        "Total_posted":5,
+        "Total_Present":5,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"FIELD TEAM",
+        "Site_Name":"Ghaziabad Municipal Corporation",
+        "Authorized_Emp":20,
+        "Total_posted":20,
+        "Total_Present":12,
+        "Total_Absent":8
+    },
+    {
+        "Designation":"High skilled team",
+        "Site_Name":"IMC GPS",
+        "Authorized_Emp":3,
+        "Total_posted":3,
+        "Total_Present":3,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Skilled Team",
+        "Site_Name":"IMC GPS",
+        "Authorized_Emp":45,
+        "Total_posted":45,
+        "Total_Present":22,
+        "Total_Absent":23
+    },
+    {
+        "Designation":"Project Head",
+        "Site_Name":"IMC IEC",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Zonal Head",
+        "Site_Name":"IMC IEC Zone 5",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Field member",
+        "Site_Name":"IMC IEC Zone 5",
+        "Authorized_Emp":15,
+        "Total_posted":15,
+        "Total_Present":13,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Zonal Head",
+        "Site_Name":"IMC IEC Zone 8",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Field member",
+        "Site_Name":"IMC IEC Zone 8",
+        "Authorized_Emp":15,
+        "Total_posted":15,
+        "Total_Present":2,
+        "Total_Absent":13
+    },
+    {
+        "Designation":"Zonal Head",
+        "Site_Name":"IMC IEC Zone 9",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Field member",
+        "Site_Name":"IMC IEC Zone 9",
+        "Authorized_Emp":25,
+        "Total_posted":25,
+        "Total_Present":24,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Zonal Head",
+        "Site_Name":"IMC IEC Zone 10",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Field member",
+        "Site_Name":"IMC IEC Zone 10",
+        "Authorized_Emp":25,
+        "Total_posted":25,
+        "Total_Present":8,
+        "Total_Absent":17
+    },
+    {
+        "Designation":"Zonal Head",
+        "Site_Name":"IMC IEC Zone 17",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Field member",
+        "Site_Name":"IMC IEC Zone 17",
+        "Authorized_Emp":15,
+        "Total_posted":15,
+        "Total_Present":9,
+        "Total_Absent":6
+    },
+    {
+        "Designation":"ICCC Project Manager",
+        "Site_Name":"GHAZIABAD ICCC",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Supervisors",
+        "Site_Name":"GHAZIABAD ICCC",
+        "Authorized_Emp":3,
+        "Total_posted":3,
+        "Total_Present":1,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Operators",
+        "Site_Name":"GHAZIABAD ICCC",
+        "Authorized_Emp":30,
+        "Total_posted":30,
+        "Total_Present":5,
+        "Total_Absent":25
+    },
+    {
+        "Designation":"Project Leader",
+        "Site_Name":"NAGPUR Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"IEC Expert",
+        "Site_Name":"NAGPUR Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"SWM Expert",
+        "Site_Name":"NAGPUR Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"IT Expert",
+        "Site_Name":"NAGPUR Municipal Corporation",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Supervisor",
+        "Site_Name":"NAGPUR Municipal Corporation",
+        "Authorized_Emp":10,
+        "Total_posted":10,
+        "Total_Present":0,
+        "Total_Absent":10
+    },
+    {
+        "Designation":"Field Member",
+        "Site_Name":"NAGPUR Municipal Corporation",
+        "Authorized_Emp":60,
+        "Total_posted":60,
+        "Total_Present":55,
+        "Total_Absent":5
+    },
+    {
+        "Designation":"Project Head",
+        "Site_Name":"Nagar Nigam Jaipur Greater",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"ICT EXPERT",
+        "Site_Name":"Nagar Nigam Jaipur Greater",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Graphic Designer CUM Social Media Expert",
+        "Site_Name":"Nagar Nigam Jaipur Greater",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"IEC Expert",
+        "Site_Name":"Nagar Nigam Jaipur Greater",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Documentation Expert + MIS Expert",
+        "Site_Name":"Nagar Nigam Jaipur Greater",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":1,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Zone In charge",
+        "Site_Name":"Nagar Nigam Jaipur Greater",
+        "Authorized_Emp":7,
+        "Total_posted":7,
+        "Total_Present":6,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Project Head SWM Expert",
+        "Site_Name":"Nagar Nigam Jaipur Heritage",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"ICT EXPERT",
+        "Site_Name":"Nagar Nigam Jaipur Heritage",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Graphic Designer",
+        "Site_Name":"Nagar Nigam Jaipur Heritage",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"IEC Expert",
+        "Site_Name":"Nagar Nigam Jaipur Heritage",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Documentation Expert + MIS Expert",
+        "Site_Name":"Nagar Nigam Jaipur Heritage",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":1,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Zone In charge",
+        "Site_Name":"Nagar Nigam Jaipur Heritage",
+        "Authorized_Emp":5,
+        "Total_posted":5,
+        "Total_Present":5,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Assitant Public Engagment Officer",
+        "Site_Name":"Nagar Nigam Jaipur Heritage",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"IEC specialist cum\nTeam Leader",
+        "Site_Name":"PATNA MUNICIPAL CORPORATION",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Social Media Expert\ncum content writer",
+        "Site_Name":"PATNA MUNICIPAL CORPORATION",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Graphic Designer",
+        "Site_Name":"PATNA MUNICIPAL CORPORATION",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"MIS expert cum IEC\ndocumentation",
+        "Site_Name":"PATNA MUNICIPAL CORPORATION",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Photographer cum\nVideographer",
+        "Site_Name":"PATNA MUNICIPAL CORPORATION",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Circle In-charge",
+        "Site_Name":"PATNA MUNICIPAL CORPORATION",
+        "Authorized_Emp":6,
+        "Total_posted":6,
+        "Total_Present":4,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Ward In-charge",
+        "Site_Name":"PATNA MUNICIPAL CORPORATION",
+        "Authorized_Emp":14,
+        "Total_posted":14,
+        "Total_Present":0,
+        "Total_Absent":14
+    },
+    {
+        "Designation":"Solid Waste Management Expert",
+        "Site_Name":"SECUNDERABAD CONTONMENT BOARD",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"MIS cum IEC Expert",
+        "Site_Name":"SECUNDERABAD CONTONMENT BOARD",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"House keeping staff",
+        "Site_Name":"AKVN HOUSEKEEPING (MPIDC Floor)",
+        "Authorized_Emp":8,
+        "Total_posted":8,
+        "Total_Present":4,
+        "Total_Absent":4
+    },
+    {
+        "Designation":"Security Guards",
+        "Site_Name":"DALY COLLEGE (DCBM\/DCBS)",
+        "Authorized_Emp":7,
+        "Total_posted":7,
+        "Total_Present":0,
+        "Total_Absent":7
+    },
+    {
+        "Designation":"ASO",
+        "Site_Name":"DALY COLLEGE (HMS)",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Supervisors",
+        "Site_Name":"DALY COLLEGE (HMS)",
+        "Authorized_Emp":3,
+        "Total_posted":3,
+        "Total_Present":1,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Surveillance Inspectors",
+        "Site_Name":"DALY COLLEGE (HMS)",
+        "Authorized_Emp":6,
+        "Total_posted":6,
+        "Total_Present":5,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Guards",
+        "Site_Name":"DALY COLLEGE (HMS)",
+        "Authorized_Emp":20,
+        "Total_posted":20,
+        "Total_Present":12,
+        "Total_Absent":8
+    },
+    {
+        "Designation":"Security Guard (09 Hours)",
+        "Site_Name":"DALY COLLEGE (HMS)",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Project head",
+        "Site_Name":"GHMC Hyderabad",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"IEC Expert",
+        "Site_Name":"GHMC Hyderabad",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Documentation Expert",
+        "Site_Name":"GHMC Hyderabad",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Liquid Waste Management Expert",
+        "Site_Name":"GHMC Hyderabad",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"MIS Expert",
+        "Site_Name":"GHMC Hyderabad",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Project Assistant",
+        "Site_Name":"GHMC Hyderabad",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Operators",
+        "Site_Name":"JANANI SURKSHA YOJNA",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":1,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Laborer (Water Department)",
+        "Site_Name":"Dewas municipal corporation",
+        "Authorized_Emp":4,
+        "Total_posted":4,
+        "Total_Present":3,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Driver (Vehicle Department)",
+        "Site_Name":"Dewas municipal corporation",
+        "Authorized_Emp":6,
+        "Total_posted":6,
+        "Total_Present":2,
+        "Total_Absent":4
+    },
+    {
+        "Designation":"Driver (Vehicle Department)",
+        "Site_Name":"Dewas municipal corporation",
+        "Authorized_Emp":33,
+        "Total_posted":33,
+        "Total_Present":8,
+        "Total_Absent":25
+    },
+    {
+        "Designation":"Helper (Vehicle Department)",
+        "Site_Name":"Dewas municipal corporation",
+        "Authorized_Emp":15,
+        "Total_posted":15,
+        "Total_Present":0,
+        "Total_Absent":15
+    },
+    {
+        "Designation":"Driver (Fire Department)",
+        "Site_Name":"Dewas municipal corporation",
+        "Authorized_Emp":5,
+        "Total_posted":5,
+        "Total_Present":1,
+        "Total_Absent":4
+    },
+    {
+        "Designation":"Laborer (Horticulture Department)",
+        "Site_Name":"Dewas municipal corporation",
+        "Authorized_Emp":6,
+        "Total_posted":6,
+        "Total_Present":1,
+        "Total_Absent":5
+    },
+    {
+        "Designation":"Computer Operator (E-Nagar Palika)",
+        "Site_Name":"Dewas municipal corporation",
+        "Authorized_Emp":6,
+        "Total_posted":6,
+        "Total_Present":6,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Security Guards",
+        "Site_Name":"ICICI BANK",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Housekeeping Supervisor",
+        "Site_Name":"KHAJRANA GANESH TEMPLE",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Housekeeping Staff",
+        "Site_Name":"KHAJRANA GANESH TEMPLE",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Housekeeping Supervisor",
+        "Site_Name":"KHAJRANA GANESH TEMPLE",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Housekeeping Staff",
+        "Site_Name":"KHAJRANA GANESH TEMPLE",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Security Guards",
+        "Site_Name":"RUCHI REALITY",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Supervisor",
+        "Site_Name":"COLLECTORATE HK",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Housekeeping Staff",
+        "Site_Name":"COLLECTORATE HK",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"MAINTENANCE OF LANDSCAPING",
+        "Site_Name":"COLLECTORATE HK",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"PROCESSING PLANT MANPOWER",
+        "Site_Name":"COLLECTORATE HK",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"MULTI SKILLED TECHNICIAN ( PLUMBING )",
+        "Site_Name":"COLLECTORATE HK",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Junior Engineer",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":15,
+        "Total_posted":15,
+        "Total_Present":7,
+        "Total_Absent":8
+    },
+    {
+        "Designation":"Coordinator",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Accountant Grade-02",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":0,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Panchayat Operator",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Steno Typist",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Assistant Grade-3",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":13,
+        "Total_posted":13,
+        "Total_Present":12,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Revenue Officer",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":6,
+        "Total_posted":6,
+        "Total_Present":0,
+        "Total_Absent":6
+    },
+    {
+        "Designation":"Sweeper cum Watchman",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":10,
+        "Total_posted":10,
+        "Total_Present":10,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"MIS Expert",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Geographic Information System Expert",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"3D Graphics and Designer Expert",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Assistant Urban Planner",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":4,
+        "Total_posted":4,
+        "Total_Present":2,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Project Analyst",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Landscape Architect Planner",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Surveyor",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":3,
+        "Total_posted":3,
+        "Total_Present":1,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Data Entry Operator",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":10,
+        "Total_posted":10,
+        "Total_Present":8,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Marketing Manager",
+        "Site_Name":"IDA MANPOWER",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Public Relation Officer (Onsite)",
+        "Site_Name":"IDA PRO",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Graphic Design Experts (Offsite)",
+        "Site_Name":"IDA PRO",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Social Media Expert and Manager (Onsite)",
+        "Site_Name":"IDA PRO",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Photographer \/ Video Grapher (Offsite)",
+        "Site_Name":"IDA PRO",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Housekeeping Staff",
+        "Site_Name":"RANJEET HANUMAN TEMPLE",
+        "Authorized_Emp":12,
+        "Total_posted":12,
+        "Total_Present":2,
+        "Total_Absent":10
+    },
+    {
+        "Designation":"Supervisor",
+        "Site_Name":"RANJEET HANUMAN TEMPLE",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Unskilled Manpower- for operation of processing plant",
+        "Site_Name":"RANJEET HANUMAN TEMPLE",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Security Guards",
+        "Site_Name":"RANJEET HANUMAN TEMPLE",
+        "Authorized_Emp":8,
+        "Total_posted":8,
+        "Total_Present":6,
+        "Total_Absent":2
+    },
+    {
+        "Designation":"Gun Man",
+        "Site_Name":"RANJEET HANUMAN TEMPLE",
+        "Authorized_Emp":3,
+        "Total_posted":3,
+        "Total_Present":2,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Security Guards",
+        "Site_Name":"AARONE DEVELOPERS",
+        "Authorized_Emp":0,
+        "Total_posted":0,
+        "Total_Present":0,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"Supervisor",
+        "Site_Name":"HOTEL EDN",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Housekeeping Staff",
+        "Site_Name":"HOTEL EDN",
+        "Authorized_Emp":9,
+        "Total_posted":9,
+        "Total_Present":8,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Housekeeping staff",
+        "Site_Name":"IIT",
+        "Authorized_Emp":31,
+        "Total_posted":31,
+        "Total_Present":14,
+        "Total_Absent":17
+    },
+    {
+        "Designation":"SWM Expert",
+        "Site_Name":"Orchaa",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":0,
+        "Total_Absent":1
+    },
+    {
+        "Designation":"Field Mobilizer",
+        "Site_Name":"Orchaa",
+        "Authorized_Emp":1,
+        "Total_posted":1,
+        "Total_Present":1,
+        "Total_Absent":0
+    },
+    {
+        "Designation":"FILED MEMBER",
+        "Site_Name":"PMAY",
+        "Authorized_Emp":2,
+        "Total_posted":2,
+        "Total_Present":1,
+        "Total_Absent":1
+    }
+]
